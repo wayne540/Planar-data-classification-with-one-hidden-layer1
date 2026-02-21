@@ -28,7 +28,7 @@ The goal is to understand how forward propagation, backpropagation, and gradient
 
 ```
 Planar-data-classification-with-one-hidden-layer/
-├── attempt4.ipynb        # Main notebook with network implementation
+├── attempt.ipynb        # Main notebook with network implementation
 ├── planar_utils.py       # Utility functions for dataset handling and plotting
 ├── testCases.py          # Test cases for verifying function correctness
 └── README.md             # Project description and instructions
@@ -62,7 +62,7 @@ pip install numpy matplotlib jupyter
 If you export the notebook as a Python script (`.py`), you can run:
 
 ```bash
-python attempt4.py
+python attempt.py
 ```
 
 ---
